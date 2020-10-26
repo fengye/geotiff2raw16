@@ -1,0 +1,12 @@
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.r16
+CMakeCache.txt
+CMakeFiles
+*.cmake
+Makefile
+gtiff2r16
+stitchr16
+cutr16
